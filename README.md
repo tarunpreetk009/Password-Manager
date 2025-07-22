@@ -24,7 +24,7 @@ A simple password manager built using **HTML**, **CSS**, and **JavaScript**, all
 - README.md
 
 
-## 💡 What I Learned
+## What I Learned
 
 - Secure handling of sensitive user input
 - DOM manipulation and client-side scripting
